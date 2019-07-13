@@ -1,0 +1,14 @@
+/Users/wai/Source/tempProjects/testWebAPIFB/bin/Debug/netcoreapp2.2/testWebAPIFB.deps.json
+/Users/wai/Source/tempProjects/testWebAPIFB/bin/Debug/netcoreapp2.2/testWebAPIFB.runtimeconfig.json
+/Users/wai/Source/tempProjects/testWebAPIFB/bin/Debug/netcoreapp2.2/testWebAPIFB.runtimeconfig.dev.json
+/Users/wai/Source/tempProjects/testWebAPIFB/bin/Debug/netcoreapp2.2/testWebAPIFB.dll
+/Users/wai/Source/tempProjects/testWebAPIFB/bin/Debug/netcoreapp2.2/testWebAPIFB.pdb
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.csprojAssemblyReference.cache
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.csproj.CoreCompileInputs.cache
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.RazorAssemblyInfo.cache
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.RazorAssemblyInfo.cs
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.AssemblyInfoInputs.cache
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.AssemblyInfo.cs
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.RazorTargetAssemblyInfo.cache
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.dll
+/Users/wai/Source/tempProjects/testWebAPIFB/obj/Debug/netcoreapp2.2/testWebAPIFB.pdb
